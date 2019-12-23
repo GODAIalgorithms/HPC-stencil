@@ -1,5 +1,5 @@
 # HPC-stencil
-optimise the performance of stencil-based kernel program in blueCrystal(supercomputer in Bristol)
+optimise the performance of stencil-based kernel program in blueCrystal(supercomputer in Bristol)   
 Two Parts: Serial optimisation and MPI optimisation
 
 # 5-point stencil
